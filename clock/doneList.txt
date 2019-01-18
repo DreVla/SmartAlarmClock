@@ -1,0 +1,6 @@
+Clock - done
+Light - done
+Alarm - done
+Temperature - done
+Buttons - change hour/minutes and stop alarm
+Buzzer - done
